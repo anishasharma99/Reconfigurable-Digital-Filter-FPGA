@@ -1,2 +1,2 @@
 # Reconfigurable-Digital-Filter-FPGA
-A Low Power Radix-4 Booth Multiplier With  Pre-Encoded Mechanism
+Design and Implementation of Reconfigurale Diital Filter on FPGA
